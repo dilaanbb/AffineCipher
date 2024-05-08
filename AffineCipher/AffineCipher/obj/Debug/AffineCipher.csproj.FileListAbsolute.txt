@@ -1,0 +1,10 @@
+C:\Users\bolat\source\repos\AffineCipher\AffineCipher\bin\Debug\AffineCipher.exe.config
+C:\Users\bolat\source\repos\AffineCipher\AffineCipher\bin\Debug\AffineCipher.exe
+C:\Users\bolat\source\repos\AffineCipher\AffineCipher\bin\Debug\AffineCipher.pdb
+C:\Users\bolat\source\repos\AffineCipher\AffineCipher\obj\Debug\AffineCipher.csproj.AssemblyReference.cache
+C:\Users\bolat\source\repos\AffineCipher\AffineCipher\obj\Debug\AffineCipher.Form1.resources
+C:\Users\bolat\source\repos\AffineCipher\AffineCipher\obj\Debug\AffineCipher.Properties.Resources.resources
+C:\Users\bolat\source\repos\AffineCipher\AffineCipher\obj\Debug\AffineCipher.csproj.GenerateResource.cache
+C:\Users\bolat\source\repos\AffineCipher\AffineCipher\obj\Debug\AffineCipher.csproj.CoreCompileInputs.cache
+C:\Users\bolat\source\repos\AffineCipher\AffineCipher\obj\Debug\AffineCipher.exe
+C:\Users\bolat\source\repos\AffineCipher\AffineCipher\obj\Debug\AffineCipher.pdb
